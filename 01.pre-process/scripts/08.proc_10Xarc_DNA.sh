@@ -4,6 +4,8 @@
 #PBS -l nodes=1:ppn=8
 #PBS -l walltime=72:00:00
 
+### Author: Yang Xie (y2xie@health.ucsd.edu)
+
 ###############################
 bcl2="221208_VH00454_113_AAAVYGGHV"
 current="/home/y2xie/scratch/28.FC_16k_Droplet_PT_221210"
