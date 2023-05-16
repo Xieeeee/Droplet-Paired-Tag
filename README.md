@@ -7,11 +7,11 @@ We previously reported Paired-Tag, a combinatorial-indexing based method that ca
 
 ### Add a figure abstract here
 
-## 01.pre-process
+## [01.pre-process](https://github.com/Xieeeee/Droplet-Paired-Tag/tree/main/01.pre-process)
 This directory contains scripts and analysis notebook for pre-processing (including mapping, FRiP, cells filtering) Droplet Paired-Tag histone modifications and RNA data. 
 
-## 02.analysis
+## [02.analysis](https://github.com/Xieeeee/Droplet-Paired-Tag/tree/main/02.analysis)
 This directory contains scripts and analysis notebook for re-producing figures in our manuscript. 
 
-## 03.protocol
+## [03.protocol](https://github.com/Xieeeee/Droplet-Paired-Tag/tree/main/03.protocol)
 This directory contains step-by-step protocol and oligos information for Droplet Paired-Tag (still under construction!). 
