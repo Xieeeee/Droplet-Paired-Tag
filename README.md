@@ -1,4 +1,4 @@
-# Droplet-Paired-Tag
+# Droplet-Paired-Tag <img src="./images/DPT_logo.png" align="right" width="200"/>
 Droplet Paired-Tag is a convenient and robust method for multi-modal profiling of histone modifications and transcriptome in single cell.
 
 ☕️ This repository contains experimental protocol and scripts to reproduce the results for our [manuscript](https://www.nature.com/articles/s41594-023-01060-1):   
